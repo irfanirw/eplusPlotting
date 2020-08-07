@@ -1,5 +1,5 @@
 # eplusPlotting
-A program to generate plotting from Energyplus simulation for:
+Generate plotting from Energyplus simulation for:
 - Comparing Indoor temperature
 - Comparing EUI performances
 - Creating scatterplot between energy and temperature performance for design decision
